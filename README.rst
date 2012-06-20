@@ -3,8 +3,8 @@
 Introducción
 ============
 
-Este es un ejemplo de la configuración básica de buildout usada en el articulo 
-`Replicación de proyectos Python`_ el cual explica como instalar la librería `zope.component`_ 
+Este es un ejemplo de la configuración básica de `buildout`_ usada en el articulo 
+`Replicación de proyectos Python`_, el cual explica como instalar la librería `zope.component`_ 
 generando un interprete Python llamado ``python`` local a tu entorno de desarrollo que incluye esta 
 librería en su ``PYTHONPATH``.
 
@@ -22,4 +22,5 @@ La instalación la realiza con los siguientes comandos: ::
   >>> import zope.component
   
 .. _zope.component: http://pypi.python.org/pypi/zope.component
+.. _buildout: http://plone-spanish-docs.readthedocs.org/en/latest/buildout/replicacion_proyectos_python.html
 .. _Replicación de proyectos Python: http://plone-spanish-docs.readthedocs.org/en/latest/buildout/replicacion_proyectos_python.html
