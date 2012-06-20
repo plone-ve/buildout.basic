@@ -20,4 +20,4 @@ La instalación la realiza con los siguientes comandos: ::
   >>> import zope.component
   
 .. _zope.component: http://pypi.python.org/pypi/zope.component
-.._ Replicación de proyectos Python: http://plone-spanish-docs.readthedocs.org/en/latest/buildout/replicacion_proyectos_python.html
+.. _Replicación de proyectos Python: http://plone-spanish-docs.readthedocs.org/en/latest/buildout/replicacion_proyectos_python.html
